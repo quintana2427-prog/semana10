@@ -1,0 +1,9 @@
+1. Como ciudadano quiero registrar un reporte de un problema en mi comunidad para que quede evidencia.
+
+2. Como coordinador quiero recibir un mensaje en Telegram cuando llegue un nuevo reporte para revisarlo rápidamente.
+
+3. Como integrante del equipo quiero ver los reportes registrados para hacerles seguimiento.
+
+4. Como administrador quiero cambiar el estado de un reporte para informar si está pendiente, en proceso o resuelto.
+
+5. Como ciudadano quiero saber cuándo mi reporte fue atendido para conocer el resultado.
